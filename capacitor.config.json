@@ -1,0 +1,7 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "bebapedija",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
